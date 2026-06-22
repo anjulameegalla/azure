@@ -1,0 +1,2 @@
+# azure
+just azure things
